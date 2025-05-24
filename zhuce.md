@@ -1,3 +1,5 @@
+# 注册币安APP包过超详细步骤和注意事项（2025版保姆级教程）
+
 注册
 一、注册前的准备工作
 
@@ -23,9 +25,7 @@
 2.1 访问币安官网
 
 重要安全提示：务必通过官方渠道访问，警惕钓鱼网站。
-
-在浏览器地址栏手动输入：https://www.binance.com</a>
-或(<a href="https://accounts.marketwebb.me/join?ref=DL3QMYFE">点这里</a>)通过安全链接访问币安官网。
+<a href="https://accounts.marketwebb.me/join?ref=DL3QMYFE">点这里</a>通过安全链接访问币安官网。
 检查网站SSL证书（地址栏应显示🔒标志）
 2.2 开始注册流程
 
@@ -79,7 +79,7 @@
 
 进入验证页面：
 登录后点击右上角头像 → “身份认证”
-或直接访问：https://www.binance.com/en/verify
+或直接访问：www.binance.com/en/verify
 选择居住国家/地区：
 如实选择您税务居住地
 不同地区要求可能略有差异
@@ -161,7 +161,7 @@ iOS用户：
 下载安装
 安卓用户：
 
-访问币安官网：https://www.binance.com/en/download
+访问币安官网 www.binance.com/en/download
 下载官方APK文件
 在设置中允许安装未知来源应用
 完成安装
@@ -242,7 +242,7 @@ A：
 币安赚币（质押获得收益）
 币安卡（加密货币消费）
 学习资源：
-访问币安学院(https://academy.binance.com)
+访问币安学院(academy.binance.com)
 参与币安线上讲座
 八、重要安全提醒
 
