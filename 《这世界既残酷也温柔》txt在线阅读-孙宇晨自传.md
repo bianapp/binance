@@ -2449,5 +2449,4 @@ A：与你的想法不同，我认为人一辈子并不缺少机会，事实上�
 
 全球最大数字货币交易所<a href="https://accounts.marketwebb.me/join?ref=DL3QMYFE">币安官网</a>注册推荐码（DL3QMYFE），免翻墙注册地址。
 
-
-
+《这世界既残酷也温柔》txt版下载地址：<a href="https://url89.ctfile.com/f/31084289-1362364172-c3ae20?pwd=8866" target="_blank">点击这里从网盘下载</a>，提取码（<b>8866</b>）。
